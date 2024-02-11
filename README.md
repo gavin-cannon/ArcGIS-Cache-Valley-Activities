@@ -22,6 +22,8 @@ The new technology was the ARCGIS JavaScript SDK. I also used HTML, CSS and vani
 
 - [arcgis.com](https://developers.arcgis.com/javascript/latest/api-reference/esri-Graphic.html)
 - [arcgis.com](https://developers.arcgis.com/javascript/latest/)
+  Helped me get started.
+- [youtube.com](https://www.youtube.com/watch?v=grtAU6RlZiM)
 
 The ArcGIS documentation is messy and difficult to sort through so using ChatGPT to parse through a good chunk of the noise was very helpful. This allowed me to find out what part of the library to use then I could investigate further on my own.
 
