@@ -1,0 +1,26 @@
+[
+  {
+    "longitude": -118.8,
+    "latitude": 34.03,
+    "name": "Hiking Trail",
+    "id": 1,
+    "title": "Hiking Trail",
+    "content": "Enjoy a scenic hike through the local nature reserve."
+  },
+  {
+    "longitude": -118.81,
+    "latitude": 34.02,
+    "name": "Picnic Area",
+    "id": 2,
+    "title": "Picnic Area",
+    "content": "Relax and have a picnic with your friends and family."
+  },
+  {
+    "longitude": -118.79,
+    "latitude": 34.025,
+    "name": "Bike Rental",
+    "id": 3,
+    "title": "Bike Rental",
+    "content": "Rent a bike and explore the surrounding area on two wheels."
+  }
+]

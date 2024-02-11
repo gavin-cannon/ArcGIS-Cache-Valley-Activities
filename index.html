@@ -1,0 +1,44 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <title>Cache Valley Activities</title>
+    <link rel="stylesheet" type="text/css" href="./css/small.css" />
+    <link
+      rel="stylesheet"
+      href="https://js.arcgis.com/4.28/esri/themes/light/main.css"
+    />
+    <script src="https://js.arcgis.com/4.28/"></script>
+
+    <style></style>
+  </head>
+
+  <body>
+    <header>
+      <div class="header-contents">
+        <h1 class="header-title">Cache Valley Activities</h1>
+        <p class="tagline">Actually there are things to do here!</p>
+      </div>
+    </header>
+    <div class="legend-container">
+      <h2>Legend</h2>
+      <div class="legend">
+        <div>
+          <p>Indoor Activity: Orange Triangle</p>
+        </div>
+        <div>
+          <p>Outdoor Activity: Green Diamond</p>
+        </div>
+        <div>
+          <p>Event: White X</p>
+        </div>
+      </div>
+    </div>
+    <div id="viewDiv"></div>
+    <script type="text/javascript" src="./json/events.json"></script>
+    <script src="./js/map.js"></script>
+  </body>
+</html>
