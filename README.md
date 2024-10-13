@@ -6,8 +6,6 @@ I thought a great use would be to create a catalogue of things to do around the 
 
 My goal in writing this software was to become familiar with ArcGIS and GIS mapping in general. It was also to build an interesting app that could potentially find people still living something fun to do based on their mood.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/24smo_N5rd8)
 
 # Development Environment
@@ -17,8 +15,6 @@ I used VS Code with a live server extension to hot reload tests in Chrome. I use
 The new technology was the ARCGIS JavaScript SDK. I also used HTML, CSS and vanilla JavaScript.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - [arcgis.com](https://developers.arcgis.com/javascript/latest/api-reference/esri-Graphic.html)
 - [arcgis.com](https://developers.arcgis.com/javascript/latest/)
