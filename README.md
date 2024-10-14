@@ -9,6 +9,7 @@ My goal in writing this software was to become familiar with ArcGIS and GIS mapp
 [Software Demo Video](https://youtu.be/24smo_N5rd8)
 ![Cache Valley Activities](./images/cvactivities.jpg)
 
+
 # Development Environment
 
 I used VS Code with a live server extension to hot reload tests in Chrome. I used the free version of ARCGIS.
@@ -18,7 +19,7 @@ The new technology was the ARCGIS JavaScript SDK. I also used HTML, CSS and vani
 # Useful Websites
 
 - [arcgis.com](https://developers.arcgis.com/javascript/latest/api-reference/esri-Graphic.html)
-- [arcgis.com](https://developers.arcgis.com/javascript/latest/)
+- [arcgis.com latest](https://developers.arcgis.com/javascript/latest/)
   Helped me get started.
 - [youtube.com](https://www.youtube.com/watch?v=grtAU6RlZiM)
 
