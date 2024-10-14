@@ -2,7 +2,7 @@
 
 I wanted to learn what GIS Mapping is and how it can be used.
 
-I thought a great use would be to create a catalogue of things to do around the valley I grew up in. I remember having a hard time finding something to do even though there is lots and having a map and a way to sort through it would help a lot. Right now you zoom and pull across the map with your cursor or touchscreen and select a marker based on what you are interested in doing. I gathered the data from my own experiences there and an upcoming events feed from the area.
+I thought a great use would be to create a catalogue of things to do around the valley I grew up in. I remember having a hard time finding something to do even though there is lots and having a map and a way to sort through it would help a lot. Right now you zoom and pull across the map with your cursor or touchscreen and select a marker based on what you are interested in doing. I gathered the data from my own experiences there and and a upcoming events feed from the area.
 
 My goal in writing this software was to become familiar with ArcGIS and GIS mapping in general. It was also to build an interesting app that could potentially find people still living something fun to do based on their mood.
 
@@ -12,9 +12,7 @@ My goal in writing this software was to become familiar with ArcGIS and GIS mapp
 
 # Development Environment
 
-I used VS Code with a live server extension to hot reload tests in Chrome. I used the free version of ARCGIS.
-
-The new technology was the ARCGIS JavaScript SDK. I also used HTML, CSS and vanilla JavaScript.
+I used VS Code with a live server extension to hot reload tests in Chrome. I used the free version of ARCGIS, HTML, CSS and JavaScript.
 
 # Useful Websites
 
@@ -29,7 +27,8 @@ The ArcGIS documentation is messy and difficult to sort through so using ChatGPT
 
 # Future Work
 
-- Externalize JSON
-- Finalize data point structures for sorting
-- Create filters
-- Streamline point design
+- Externalize JSON.
+- Finalize data point structures for sorting.
+- Create filters.
+- Streamline point design.
+- Look into API for upcoming events.
