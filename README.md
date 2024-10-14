@@ -7,6 +7,7 @@ I thought a great use would be to create a catalogue of things to do around the 
 My goal in writing this software was to become familiar with ArcGIS and GIS mapping in general. It was also to build an interesting app that could potentially find people still living something fun to do based on their mood.
 
 [Software Demo Video](https://youtu.be/24smo_N5rd8)
+![Cache Valley Activities](./images/cvactivities.jpg)
 
 # Development Environment
 
